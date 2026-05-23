@@ -115,4 +115,5 @@ ecommerce-sales-analysis/
 
 ## Author
 
-Your Name
+Rishabh Yadav
+
